@@ -6,7 +6,6 @@ Beyond Java, I'm also diving into the fascinating realm of DevOps and AIML.
     System.out.println("Hello World 👋");
 ```
 
-Checkout my articles and POCs [here](https://aa1588.github.io/profile/) .
 <!--- ![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritcsadhikari&show_icons=true&theme=cobalt) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aa1588&layout=compact&show_icons=true&theme=highcontrast)
@@ -36,3 +35,9 @@ Here are some ideas to get you started:
 * [JWT Implementation- OAuth 2.0 Resource Server](https://github.com/aa1588/Jwt-oauth2-resource-server) - OAuth 2.0 Resource Server JWT
 * [Context-api](https://github.com/aa1588/React-Context-ProtectedRoutes-Authentication-Fullstack) - React Authentication with Context-API
 * [CampusXchange](https://github.com/aa1588/campusXchange) - A Campus-Focused Marketplace Addressing UNT Student Needs
+
+<br>
+<p align="center">
+  Checkout my articles and POCs <a href="https://aa1588.github.io/profile/">here</a>.
+</p>
+
