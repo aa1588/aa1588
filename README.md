@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 -->
 ## Key Repositories
 
+* [Claude-mcp-Employee-Lookup](https://github.com/aa1588/claude-mcp-employee-lookup) - Sample MCP (Model-Context-Protocol) project with SQLite backend - for integration with Claude Desktop. 
 * [Sending-Email-Spring-Boot](https://github.com/aa1588/Sending-Email-Spring-Boot) - Sending Emails with Spring Boot: Comprehensive Guide
 * [E-Commerce-Application](https://github.com/aa1588/E-Commerce-Application) - E-Commerce Appliication with MERN
 * [Spring-Security-API-Documentation](https://github.com/aa1588/Spring-Security-API-Documentation) - OpenAPI Documentation: OAuth 2.0 Resource Server JWT
