@@ -8,8 +8,6 @@ Beyond Java, I'm also diving into the fascinating realm of DevOps and AIML.
 
 <!--- ![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritcsadhikari&show_icons=true&theme=cobalt) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aa1588&layout=compact&show_icons=true&theme=highcontrast)
-
 <!---## Amrit Adhikari 
  Developer At - [THE STACK SCHOOL](https://github.com/thestackschool) -->
 
