@@ -1,16 +1,12 @@
 ---
-I'm a passionate Java Software Engineer on an exciting learning journey.
-Beyond Java, I'm also diving into the fascinating realm of DevOps and AIML.
+# Hello, I am Amrit!
 
-```bash
-    System.out.println("Hello World 👋");
+```java
+    System.out.println("नमस्ते 🙏");
 ```
-
-<!--- ![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritcsadhikari&show_icons=true&theme=cobalt) -->
 
 <!---## Amrit Adhikari 
  Developer At - [THE STACK SCHOOL](https://github.com/thestackschool) -->
-
 <!--
 **aa1588/aa1588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,6 +33,6 @@ Here are some ideas to get you started:
 * [EKS-Microservices Deployment](https://github.com/aa1588/eks-deployment) - Deploy Software Services using Docker and Kubernetes
 <br>
 <p align="center">
-  Checkout my articles and POCs <a href="https://aa1588.github.io/profile/">here</a>.
+  ⚡ <i>https://amritad.com</i>
 </p>
 
