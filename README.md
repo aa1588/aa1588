@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 * [Dynamic Proxy in SpringBoot](https://github.com/aa1588/spring-dynamic-proxy-demo) - Understanding how Spring creates Dynamic Proxies during runtime
 * [Sending-Email-Spring-Boot](https://github.com/aa1588/Sending-Email-Spring-Boot) - Sending Emails with Spring Boot: Comprehensive Guide
 * [E-Commerce-Application](https://github.com/aa1588/E-Commerce-Application) - E-Commerce Appliication with MERN
+* [Messenger Application](https://github.com/aa1588/Messenger-Chat-Application) - A real-time chat application built with Spring Boot and React featuring user authentication, WebSocket messaging, direct/group chat rooms, typing indicators, message read receipts, online status tracking, and unread message counts.
 * [Spring-Security-API-Documentation](https://github.com/aa1588/Spring-Security-API-Documentation) - OpenAPI Documentation: OAuth 2.0 Resource Server JWT
 * [JWT Implementation- OAuth 2.0 Resource Server](https://github.com/aa1588/Jwt-oauth2-resource-server) - OAuth 2.0 Resource Server JWT
 * [Context-api](https://github.com/aa1588/React-Context-ProtectedRoutes-Authentication-Fullstack) - React Authentication with Context-API
