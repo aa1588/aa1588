@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 * [JWT Implementation- OAuth 2.0 Resource Server](https://github.com/aa1588/Jwt-oauth2-resource-server) - OAuth 2.0 Resource Server JWT
 * [Context-api](https://github.com/aa1588/React-Context-ProtectedRoutes-Authentication-Fullstack) - React Authentication with Context-API
 * [CampusXchange](https://github.com/aa1588/campusXchange) - A Campus-Focused Marketplace Addressing UNT Student Needs
+* [Hibernate Performance Study -1](https://github.com/aa1588/hibernate-nplus1-problem) - Hibernate **N+1** Query Problem and EntityGraph solution
 * [EKS-Microservices Deployment](https://github.com/aa1588/eks-deployment) - Deploy Software Services using Docker and Kubernetes
 <br>
 <p align="center">
