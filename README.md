@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 * [EKS-Microservices Deployment](https://github.com/aa1588/eks-deployment) - Deploy Software Services using Docker and Kubernetes
 <br>
 <p align="center">
-  ⚡ <i>https://amritad.com</i>
+  ⚡ <i>https://amritad#.com</i>
 </p>
 
